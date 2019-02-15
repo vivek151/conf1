@@ -1,0 +1,2 @@
+Hi, this is a text file create by user1
+It contents are abcdef
