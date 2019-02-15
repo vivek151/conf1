@@ -1,4 +1,0 @@
-Hi, this is a text file modified by user2 
-It contents are abcdef
-Hi, This is edition in a text file from user2
-It contents are abcdefghi
